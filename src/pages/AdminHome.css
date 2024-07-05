@@ -1,0 +1,36 @@
+* {
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+
+}
+
+.sidebar {
+    height: 100vh;
+    background-color: #001529;
+    color: #fff;
+    margin-left: -135px;
+    margin-top: -7px;
+}
+
+
+
+.adminlink {
+    display: flex;
+    color: #fff;
+    padding: 20px 35px;
+    transition: all 0.5s;
+    text-decoration: none;
+    font-size: 18px;
+    caret-color: transparent;
+    border-bottom: 1.3px solid #fff;
+}
+
+.adminlink:hover {
+    background-color: #1890ff;
+    color: white;
+    transition: all 0.5s;
+}

@@ -1,0 +1,27 @@
+.ant-table-cell {
+    padding: 16px !important;
+}
+
+.ant-table-cell img {
+    border-radius: 8px;
+}
+
+.ant-table-cell .ant-input-number {
+    width: 100px;
+}
+
+.ant-table-cell .ant-btn-link {
+    padding: 0;
+}
+
+.ant-table-expanded-row {
+    background-color: #f5f5f5;
+}
+
+.ant-table-expanded-row p {
+    margin-bottom: 8px;
+}
+
+.ant-table-expanded-row p strong {
+    margin-right: 8px;
+}
